@@ -1,0 +1,115 @@
+body {
+  font-family: 'Spartan', sans-serif;
+  margin: 100px;
+  position: relative;
+}
+
+svg {
+  margin-left: 5px;
+}
+
+h1 {
+  color: #502050;
+  font-size: 60px;
+  margin: 0 0 10px 0;
+  width: 50%;
+}
+
+h2 {
+  color: #f7f2f7;
+  margin: 0;
+}
+
+img {
+  border-radius: 50%;
+  float: left;
+  height: 50px;
+  width: 50px;
+  margin-right: 20px;
+}
+
+.stars1 {
+  float: left;
+  margin-right: 30px;
+  margin-left: 350px;
+}
+
+.stars2 {
+  float: left;
+  margin-right: 30px;
+  margin-left: 400px;
+}
+
+.stars3 {
+  float: left;
+  margin-right: 30px;
+  margin-left: 450px;
+}
+
+.p-header {
+  color: #937b92;
+  font-weight: 500;
+  width: 50%;
+  margin: 0 0 50px 0;
+}
+
+.Header {
+  width: 60%;
+}
+
+.Ratings {
+  color: #502050;
+  font-weight: 700;
+  position: absolute;
+  width: 50%;
+  right: 0;
+  top: 0;
+}
+
+.Ratings p {
+  margin-top: 0;
+  margin-bottom: 50px;
+}
+
+.buyers {
+  position: relative;
+}
+
+.first-buyer {
+  background-color: #502050;
+  padding: 50px 30px;
+  width: 21%;
+  border-radius: 10px;
+  position: absolute;
+  left: 0;
+}
+
+.second-buyer {
+  background-color: #502050;
+  padding: 50px 30px;
+  width: 21%;
+  border-radius: 10px;
+  position: absolute;
+  top: 0;
+  left: 27%;
+  margin-top: 30px;
+}
+
+.third-buyer {
+  background-color: #502050;
+  padding: 50px 30px;
+  width: 21%;
+  border-radius: 10px;
+  position: absolute;
+  left: 54%;
+  margin-top: 60px;
+}
+
+.comment {
+  color: #ffffff
+}
+
+.status {
+  color: #ee68a4;
+  margin: 0 0 30px 0;
+}
